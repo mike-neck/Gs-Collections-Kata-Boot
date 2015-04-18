@@ -1,0 +1,8 @@
+Gs-Collections-Kata-Boot
+Copyright 2015 Shinya Mochida
+
+This product includes software (GS Collections) developed by
+Goldman Sachs (https://github.com/goldmansachs)
+
+This product includes software (Gradle) developed by
+Gradleware Inc. (http://www.gradleware.com/)
