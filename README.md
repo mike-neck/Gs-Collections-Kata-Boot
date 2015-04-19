@@ -7,6 +7,7 @@ Usage
 ===
 
 1. clone this repository
+1. run IDE task(ex. for eclipse `gradle eclipse`/ for IntelliJ `gradle idea`)
 1. run gradle task named `prepareKata`
 1. run gradle task named `exercise1`
 1. code to pass the test `Exercise1Test.java`
