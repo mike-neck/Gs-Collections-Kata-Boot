@@ -76,3 +76,28 @@ crashlytics-build.properties
 *~
 template/
 buildSrc/build.gradle
+
+# for eclipse project
+.project
+.classpath
+bin/
+.metadata
+.settings/
+.loadpath
+*.launch
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.externalToolBuilders/
+
+# for netbeans project
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+.nb-gradle/
